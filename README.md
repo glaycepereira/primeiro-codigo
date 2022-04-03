@@ -1,5 +1,5 @@
-# primeiro-projeto
-meu primeiro projeto no git / git hub
+#Primeiro projeto
+##Meu primeiro projeto no git / git hub
 dio desafio repositorio github
 Meu primeiro desafio no Git/Git Hub 
 Estou iniciando uma jornada rumo ao mundo da programação. 
